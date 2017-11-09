@@ -1,8 +1,3 @@
-//Code sample by Mark Luffred 
-// markandrew21@gmail.com
-// 315-632-0002
-
-
 using System;
 
 namespace CarPricer
